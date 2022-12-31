@@ -1,9 +1,8 @@
-# Convert Selected Mesh To Bounding_Mesh
-
-![Menu](https://blenderboi.com/gallery/ConvertSelectedMeshToBoundingMesh/Menu.png)
+# Convert Selected Mesh To Bounding Mesh
 
 This is a Simple Addon that converts selected Mesh Object to Bounding Cube Mesh
 
+![Menu](https://blenderboi.com/gallery/ConvertSelectedMeshToBoundingMesh/Menu.png)
 
 ## Before
 
